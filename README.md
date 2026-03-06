@@ -11,7 +11,7 @@ This project implements a **Distributed Face Recognition and Tracking System** f
 
 The system is designed for **embedded systems applications**, demonstrating how computer vision, IoT communication, and edge computing work together in a practical face-tracking servo control system.
 
-## Table of Contents
+## The table of contents
 
 - [Assessment Details (Week 06)](#assessment-details-week-06)
 - [System Architecture](#system-architecture)
@@ -127,3 +127,5 @@ The new Face Locking feature (`src/face_locking.py` and `vision_node.py`) allows
 
 **History**:
 A file named `<name>_history_<timestamp>.txt` is created to record all detected actions.
+
+**looking forward to collaborate with anyone**
